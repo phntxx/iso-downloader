@@ -1,0 +1,13 @@
+images:
+  - name: opensuse-tumbleweed-network-x86_64.iso
+    url: https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso
+    sha256: http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256
+    # asc: http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256.asc
+
+  - name: archlinux-x86_64.iso
+    url: https://packages.hs-regensburg.de/archlinux/iso/latest/archlinux-x86_64.iso
+    # signature: https://packages.hs-regensburg.de/archlinux/iso/latest/archlinux-x86_64.iso.sig
+
+  - name: gparted-live-x86_64.iso
+    url: https://sourceforge.net/projects/gparted/best_release.json
+    patches: sourceforge
